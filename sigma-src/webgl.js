@@ -1,7 +1,0 @@
-import "sigma-react/src/renderers/sigma.renderers.webgl.js"
-import "sigma-react/src/renderers/sigma.renderers.def.js"
-import "sigma-react/src/renderers/webgl/sigma.webgl.nodes.def.js"
-import "sigma-react/src/renderers/webgl/sigma.webgl.nodes.fast.js"
-import "sigma-react/src/renderers/webgl/sigma.webgl.edges.def.js"
-import "sigma-react/src/renderers/webgl/sigma.webgl.edges.fast.js"
-import "sigma-react/src/renderers/webgl/sigma.webgl.edges.arrow.js"
